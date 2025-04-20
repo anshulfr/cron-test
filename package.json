@@ -1,0 +1,26 @@
+{
+  "name": "cron-test",
+  "version": "1.0.0",
+  "main": "cron.js",
+  "scripts": {
+    "start": "node cron.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshulfr/cron-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/anshulfr/cron-test/issues"
+  },
+  "homepage": "https://github.com/anshulfr/cron-test#readme",
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^20.0.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
